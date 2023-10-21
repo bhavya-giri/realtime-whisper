@@ -1,7 +1,8 @@
 # realtime-whisper
 
-https://github.com/bhavya-giri/realtime-whisper/assets/102273412/fb7cfd83-55c4-4f00-8626-c229b1afd812
+## Demo
 
+https://github.com/bhavya-giri/realtime-whisper/assets/102273412/5ae34657-a44d-43de-8a75-e441bcb0197f
 
 ## Bash Commands
 ```
