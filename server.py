@@ -48,6 +48,7 @@ async def transcribe(audio_data: bytes = Depends(parse_body)):
         text = await asyncio.get_running_loop().run_in_executor(None,model_transcribe,audio_array)
     except Exception as e:
         print(e)
+        return {"error": str(e)}
     return {"text": text}
 
 if __name__ == "__main__":
