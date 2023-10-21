@@ -1,3 +1,5 @@
 faster-whisper
 numpy
 pyaudio
+fastapi
+uvicorn
