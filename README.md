@@ -1,9 +1,9 @@
-# realtime-
+# realtime-whisper
 
 https://github.com/bhavya-giri/realtime-whisper/assets/102273412/fb7cfd83-55c4-4f00-8626-c229b1afd812
 
-whisper
 
+## Bash Commands
 ```
 git clone https://github.com/bhavya-giri/realtime-whisper
 ```
